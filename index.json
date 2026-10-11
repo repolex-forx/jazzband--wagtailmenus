@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "wagtailmenus",
+  "versions": [
+    {
+      "commit": "53e9003ff183a48d1ddb3dc79552a8db9b365f95",
+      "tag": "v4.1.1",
+      "parsed_at": "2026-10-11T02:19:31.274410+00:00"
+    }
+  ]
+}
