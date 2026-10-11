@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/wagtailmenus/commit/53e9003ff183a48d1ddb3dc79552a8db9b365f95",
       "git:hexsha": "53e9003ff183a48d1ddb3dc79552a8db9b365f95",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v4.1.1"
     },
     {
